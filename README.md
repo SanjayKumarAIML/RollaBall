@@ -1,4 +1,4 @@
-# Roll a Ball
+# <p align="center">Roll a Ball</p>
 
 ## Aim:
 To Roll a Ball using C# program in unity .
@@ -26,6 +26,10 @@ To add our C# Script file to our selected object, click on the C# Script file an
 ### Step 7:
 After run the application, you press the WASD and space key the ball will move and jump.
 ## Program:
+Developed By: **Shafeeq Ahamed.S**
+</br>
+
+Register No: **212221230092**
 ```
 using System.Collections;
 using System.Collections.Generic;
